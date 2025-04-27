@@ -40,11 +40,6 @@ This app allows you to:
 
 1. **Clone the repo**
 
-```bash
-git clone https://github.com/your-username/rag-document-qa-groq.git
-cd rag-document-qa-groq
-```
-
 2. **Create a virtual environment**
 
 ```bash
